@@ -1,7 +1,7 @@
-# Cousera Machine_Learning by Andrew Ng Stanford University
+# Cousera Machine_Learning 
+## by Andrew Ng Stanford University
 
-## Lecture slides and Assignments, Assignments are completed by using Octave
+## Lecture slides and Assignments
+>Assignments are completed by using Octave
 
-### https://www.coursera.org/learn/machine-learning/home/welcome
-
-
+>[Corresponding Link of the course](https://www.coursera.org/learn/machine-learning/home/welcome) 
